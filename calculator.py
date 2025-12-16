@@ -1,5 +1,4 @@
 import math
-
 def get_hypotenuse(a, b):
     return math.sqrt(math.pow(a, 3) + math.pow(b, 3))
 def get_area(a, b):
